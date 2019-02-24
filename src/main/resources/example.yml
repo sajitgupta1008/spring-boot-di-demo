@@ -1,0 +1,23 @@
+name: sajit
+
+list:
+  - sajit
+  - gupta
+  - vijay
+
+value : True
+
+book:
+    author: name
+    address:
+        street: indira nagar
+
+
+multiline: |
+  this is it
+  i donkt know
+
+
+ignore_new_line: >
+  this is
+  just one line
